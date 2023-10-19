@@ -18,11 +18,11 @@
 
 ## Description
 
-This project explains the designing and developing of a instagram ui with our main frontend tools like HTML and tailwindcss
+This project explains the designing and developing of a Instagram ui with our main frontend tools like HTML and tailwindcss.
 
 ## Demo
 
-[Demo Video](https://github.com/Bearcin46/instagram-ui-tailwindcss/actions)
+[Demo Video](https://bearcin46.github.io/instagram-ui-tailwindcss//)
 
 ## Internship
 
